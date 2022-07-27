@@ -45,7 +45,7 @@
 - [sᴜᴘᴘᴏʀᴛ](https://t.me/comrade_botz)      
 
 
-- [ᴜᴘᴅᴀᴛᴇ](https://t.me/comrade_robots)  
+- [ᴜᴘᴅᴀᴛᴇ](https://t.me/comrade_robotz)  
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
