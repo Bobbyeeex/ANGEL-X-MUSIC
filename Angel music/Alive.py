@@ -50,8 +50,8 @@ async def start_(client: Client, message: Message):
             ],[
             InlineKeyboardButton("✨ᴏᴡɴᴇʀ✨", url="https://t.me/about_Bobby"), 
             ],[
-            InlineKeyboardButton("🐾sᴜᴘᴘᴏʀᴛ🐾", url=f"https://t.me/comrade_robotz"), 
-            InlineKeyboardButton("🐾ᴄʜᴀɴɴᴇʟ🐾", url=f"https://t.me/conrade_network"), 
+            InlineKeyboardButton("🐾sᴜᴘᴘᴏʀᴛ🐾", url=f"https://t.me/{GROUP}"), 
+            InlineKeyboardButton("🐾ᴄʜᴀɴɴᴇʟ🐾", url=f"https://t.me/{UPADATE}"), 
             ],[
             InlineKeyboardButton("🔺 ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔺", url=f"https://t.me/Angelmusicrobot?startgroup=true")
             ]]
