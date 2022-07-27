@@ -46,8 +46,8 @@ async def start_set(_, query: CallbackQuery):
             ],[
             InlineKeyboardButton("✨ғᴜᴄᴋᴇʀ✨", url="https://t.me/about_bobby"), 
             ],[
-            InlineKeyboardButton("🐾sᴜᴘᴘᴏʀᴛ🐾", url=f"https://t.me/{GROUP}"), 
-            InlineKeyboardButton("🐾ᴄʜᴀɴɴᴇʟ🐾", url=f"https://t.me/{UPADATE}"), 
+            InlineKeyboardButton("🐾sᴜᴘᴘᴏʀᴛ🐾", url=f"https://t.me/comrade_botz"), 
+            InlineKeyboardButton("🐾ᴄʜᴀɴɴᴇʟ🐾", url=f"https://t.me/comrade_robots"), 
             ],[
             InlineKeyboardButton("🔺 ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔺", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ]]
